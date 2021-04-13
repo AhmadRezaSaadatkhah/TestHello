@@ -1,5 +1,5 @@
 # TestHello
-first repository
+First repository
 
-This is the edit branch of this raspitory!
-Ok, I'm talking a bit about myself!
+I've merged the edit branch to the master.
+Now, I'm talking a bit about myself! I'm an old amateur developer hope to make a little (good) impact on future!
